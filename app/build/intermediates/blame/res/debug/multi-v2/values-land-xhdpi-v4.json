@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Ivan\\Home\\AndroidProjects\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land-xhdpi-v4\\values-land-xhdpi-v4.xml",
+            "map": [
+                {
+                    "source": "D:\\Ivan\\Home\\AndroidProjects\\app\\src\\main\\res\\values-land-xhdpi\\dimens.xml",
+                    "from": {
+                        "startLines": "4,5,3,6",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "109,155,59,202",
+                        "endColumns": "44,45,48,51",
+                        "endOffsets": "149,196,103,249"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,100,146,195",
+                        "endColumns": "44,45,48,51",
+                        "endOffsets": "95,141,190,242"
+                    }
+                }
+            ]
+        }
+    ]
+}
